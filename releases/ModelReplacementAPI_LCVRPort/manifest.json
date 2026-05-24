@@ -1,0 +1,9 @@
+{
+    "name": "ModelReplacementAPI_LCVRPort",
+    "version_number": "2.4.20",
+    "website_url": "https://github.com/Argoni-Lavic/ModelReplacementAPI-LethalCompanyVR-port/tree/main",
+    "description": "API to simplify model replacement ported for LCVR compatability by Argoni_9176",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
