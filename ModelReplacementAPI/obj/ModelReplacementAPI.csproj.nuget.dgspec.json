@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\reeds\\OneDrive\\Desktop\\lethal company modding\\MAPI LCVR port\\origonal MAPI\\ModelReplacementAPI\\ModelReplacementAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\reeds\\OneDrive\\Desktop\\lethal company modding\\MAPI LCVR port\\origonal MAPI\\ModelReplacementAPI\\ModelReplacementAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reeds\\OneDrive\\Desktop\\lethal company modding\\MAPI LCVR port\\origonal MAPI\\ModelReplacementAPI\\ModelReplacementAPI.csproj",
+        "projectName": "ModelReplacementAPI",
+        "projectPath": "C:\\Users\\reeds\\OneDrive\\Desktop\\lethal company modding\\MAPI LCVR port\\origonal MAPI\\ModelReplacementAPI\\ModelReplacementAPI.csproj",
+        "packagesPath": "C:\\Users\\reeds\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reeds\\OneDrive\\Desktop\\lethal company modding\\MAPI LCVR port\\origonal MAPI\\ModelReplacementAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reeds\\OneDrive\\Desktop\\lethal company modding\\MAPI LCVR port\\origonal MAPI\\ModelReplacementAPI\\NuGet.Config",
+          "C:\\Users\\reeds\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.1, )"
+            },
+            "BepInEx.Core": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[5.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "HarmonyX": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2.10.2, )"
+            },
+            "Newtonsoft.Json": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2022.3.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

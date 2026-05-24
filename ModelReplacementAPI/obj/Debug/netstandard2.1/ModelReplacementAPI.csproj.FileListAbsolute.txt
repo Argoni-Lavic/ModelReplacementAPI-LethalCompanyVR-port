@@ -1,0 +1,8 @@
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\obj\Debug\netstandard2.1\ModelReplacementAPI.csproj.AssemblyReference.cache
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\obj\Debug\netstandard2.1\ModelReplacementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\obj\Debug\netstandard2.1\ModelReplacementAPI.csproj.CoreCompileInputs.cache
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\bin\Debug\netstandard2.1\ModelReplacementAPI.deps.json
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\bin\Debug\netstandard2.1\ModelReplacementAPI.dll
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\bin\Debug\netstandard2.1\ModelReplacementAPI.pdb
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\obj\Debug\netstandard2.1\ModelReplacementAPI.dll
+C:\Users\reeds\OneDrive\Desktop\lethal company modding\MAPI LCVR port\origonal MAPI\ModelReplacementAPI\obj\Debug\netstandard2.1\ModelReplacementAPI.pdb
