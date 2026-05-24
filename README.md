@@ -21,4 +21,4 @@ Unknown issues
 
 how it works
 -
-* If LethalCompanyVR (LCVR) is present, the shader whitelist will be bypassed, and all models will be rebuilt to enable instancing and use shaders compatible with LCVR's rendering system.
+* If LethalCompanyVR (LCVR) is present, the shader whitelist will be bypassed, and all models will be rebuilt to enable instancing and to use shaders compatible with LCVR's rendering system.
