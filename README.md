@@ -2,7 +2,8 @@
 
 how to use
 -
-* replace the ModelReplacementAPI.dll in you mod files with the ModelReplacementAPI_LCVRPort.dll in the release
+* download the latest release and extract the contents to the your plugins folder which can be found in your BepInEx folder in the LethalCompany program files
+* C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins
 
 Known issues
 -
