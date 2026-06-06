@@ -5,7 +5,9 @@ how to use
 * download the latest release and extract the contents to the your plugins folder which can be found in your BepInEx folder in the LethalCompany program files
 * C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins
 
-* Only players who will be playing in VR will need this version of the Model Replacement API. 
+* Only players who will be playing in VR will need this version of the Model Replacement API.
+
+* prereleases are in the releases folder, they will have the folowing at the end of the file name: "pre {prerelease number}"
 
 Known issues
 -
@@ -14,6 +16,7 @@ Known issues
 * Dying at the company may make the dead individual respawn without a model, but it may also return at a later point in time. (problem with the origonal API)
 * 3rd person emotes may behave erratically due to the port.
 * some models may have problems as the shaders must be switched for VR compatible shaders.
+* user can't remove Helmet Visor (maybe fixed needs testing)
 
 Unknown issues
 -
